@@ -12,8 +12,7 @@ Cloud Optimization: Proficient in maximizing efficiency within cloud environment
 Technical Acumen: Skilled at solving intricate problems.
 Process Enhancement: Passionate about streamlining workflows.
 Promotions: Proven ability to rise through the ranks.
-
-* Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
+Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
 * 🌍  I'm based in Bethesda, MD
 * ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
 * 🚀  I'm currently working on [Data Analytics Practitioner](http://www.montgomerycollege.edu/workforce-development-continuing-education/information-technology/techmap/index.html)
