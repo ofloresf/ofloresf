@@ -4,8 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Professional | AWS Practitioner | Azure Fundamentals| Data Analytics Practitioner | Azure AI Engineer Associate
 ------------------------------------------------------------------------------------------------------------------
 
-IT Professional with 14+ years of experience from IT Support to DevOps Consultant. Master in Data Management and Technological Innovation. Moving towards Data Analytics and AI Engineering.
+With 14+ years of global experience, I specialize in optimizing cloud systems across AWS and Azure. My achievements include cost reduction through resource optimization in Azure and automating ISO-compliant patching in AWS. I thrive on tackling complex technical challenges and driving process efficiency. My career trajectory from IT Support to DevOps Consultant demonstrates a consistent track record of exceeding expectations.
 
+* Key Strengths:
+
+Cloud Optimization: Proficient in maximizing efficiency within cloud environments.
+Technical Acumen: Skilled at solving intricate problems.
+Process Enhancement: Passionate about streamlining workflows.
+Promotions: Proven ability to rise through the ranks.
+* Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
 * 🌍  I'm based in Bethesda, MD
 * ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
 * 🚀  I'm currently working on [Data Analytics Practitioner](http://www.montgomerycollege.edu/workforce-development-continuing-education/information-technology/techmap/index.html)
