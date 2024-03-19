@@ -4,14 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Professional | AWS Practitioner | Azure Fundamentals| Data Analytics Practitioner | Azure AI Engineer Associate
 ------------------------------------------------------------------------------------------------------------------
 
-With 14+ years of global experience, I specialize in optimizing cloud systems across AWS and Azure. My achievements include cost reduction through resource optimization in Azure and automating ISO-compliant patching in AWS. I thrive on tackling complex technical challenges and driving process efficiency. My career trajectory from IT Support to DevOps Consultant demonstrates a consistent track record of exceeding expectations.
+A seasoned professional with over 14 years in IT, specializing in cloud system optimization across AWS and Azure. Demonstrated expertise in resource optimization, cost reduction, and automation of ISO-compliant processes. Skilled in addressing complex technical challenges and enhancing process efficiency, poised for a transition into Data Analytics.
 
 * Key Strengths:
 
-Cloud Optimization: Proficient in maximizing efficiency within cloud environments.
-Technical Acumen: Skilled at solving intricate problems.
-Process Enhancement: Passionate about streamlining workflows.
-Promotions: Proven ability to rise through the ranks.
+•	Data: acquisition, manipulation, summarization, analysis, SQL, SQL Server, SSMS, Excel, and Python.
+•	Cloud optimization: proficient in maximizing efficiency within cloud environments. *•	Technical sense: skilled at solving intricate problems.
+•	Process enhancement: passionate about streamlining workflows. 
+•	Infrastructure technologies: DevOps, transport layer security (TLS),  virtualization, servers, and information technology.
+•	Amazon Relational Database Service (RDS), Microsoft SQL Server, SQL Server Reporting Services (SSRS)
+• Promotions: Proven ability to rise through the ranks.
 Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
 * 🌍  I'm based in Bethesda, MD
 * ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
