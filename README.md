@@ -9,11 +9,17 @@ A seasoned professional with over 14 years in IT, specializing in cloud system o
 * Key Strengths:
 
 •	Data: acquisition, manipulation, summarization, analysis, SQL, SQL Server, SSMS, Excel, and Python.
+
 •	Cloud optimization: proficient in maximizing efficiency within cloud environments. *•	Technical sense: skilled at solving intricate problems.
+
 •	Process enhancement: passionate about streamlining workflows. 
+
 •	Infrastructure technologies: DevOps, transport layer security (TLS),  virtualization, servers, and information technology.
+
 •	Amazon Relational Database Service (RDS), Microsoft SQL Server, SQL Server Reporting Services (SSRS)
+
 • Promotions: Proven ability to rise through the ranks.
+
 Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
 * 🌍  I'm based in Bethesda, MD
 * ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
