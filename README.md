@@ -21,7 +21,7 @@ A seasoned professional with over 14 years in IT, specializing in cloud system o
 • Promotions: Proven ability to rise through the ranks.
 
 Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
-* 🌍  I'm based in Bethesda, MD
+* 🌍  I'm based in Castilleja de la Cuesta, Seville
 * ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
 * 🚀  I'm currently working on [Data Analytics Practitioner](http://www.montgomerycollege.edu/workforce-development-continuing-education/information-technology/techmap/index.html)
 * 🧠  I'm learning Data Analytics | Azure AI Engineer Associate
