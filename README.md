@@ -1,21 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Flores
 ====================================================================================================================================
 
-Data & BI Professional | Power BI & DAX | Power Platform | SQL Server | Open to International Roles
+### Data & BI Professional | Power BI & DAX | Power Platform | SQL Server | Open to International Roles
 
-IT professional with over 15 years of experience, now focused on data analytics and Power Platform. My las role was Data Coordinator at Montgomery College, designing data models, dashboards, and reporting for education and workforce programs, including federal DOL WIOA reporting.
+IT professional with over 15 years of experience, now focused on data analytics and Power Platform. Currently Data Coordinator at Montgomery College, designing data models, dashboards, and reporting for education and workforce programs, including federal DOL WIOA reporting.
 
-Key Strengths:
-Business Intelligence: Power BI, DAX, Power Query, data modeling, SQL Server, SSMS
-Power Platform: Power BI, Power Apps, Power Automate
-Data: acquisition, transformation, analysis, ETL, Python
-Cloud: AWS, Azure — resource optimization and automation
-Infrastructure: DevOps, virtualization, servers
-🌍 Based in Castilleja de la Cuesta, Seville — open to international remote/hybrid roles
-✉️ Contact: oscarnests@yahoo.com
-🚀 Last role working on data reporting and automation solutions at Montgomery College
-🧠 Preparing for the Azure AI Engineer Associate exam
-🤝 Actively seeking international roles in Data Engineering, Power Platform/BI, and ICT
+**Key Strengths:**
+
+- **Business Intelligence:** Power BI, DAX, Power Query, data modeling, SQL Server, SSMS
+- **Power Platform:** Power BI, Power Apps, Power Automate
+- **Data:** acquisition, transformation, analysis, ETL, Python
+- **Cloud:** AWS, Azure — resource optimization and automation
+- **Infrastructure:** DevOps, virtualization, servers
+
+- 🌍 Based in Castilleja de la Cuesta, Seville — open to international remote/hybrid roles
+- ✉️ Contact: [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
+- 🚀 Currently working on data reporting and automation solutions at Montgomery College
+- 🧠 Preparing for the Azure AI Engineer Associate exam
+- 🤝 Actively seeking international roles in Data Engineering, Power Platform/BI, and ICT
 
 ### Skills
 
