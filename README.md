@@ -1,31 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Flores
 ====================================================================================================================================
 
-IT Professional | AWS Practitioner | Azure Fundamentals| Data Analytics Practitioner | Azure AI Engineer Associate
-------------------------------------------------------------------------------------------------------------------
+Data & BI Professional | Power BI & DAX | Power Platform | SQL Server | Open to International Roles
 
-A seasoned professional with over 14 years in IT, specializing in cloud system optimization across AWS and Azure. Demonstrated expertise in resource optimization, cost reduction, and automation of ISO-compliant processes. Skilled in addressing complex technical challenges and enhancing process efficiency, poised for a transition into Data Analytics.
+IT professional with over 15 years of experience, now focused on data analytics and Power Platform. My las role was Data Coordinator at Montgomery College, designing data models, dashboards, and reporting for education and workforce programs, including federal DOL WIOA reporting.
 
-* Key Strengths:
-
-•	Data: acquisition, manipulation, summarization, analysis, SQL, SQL Server, SSMS, Excel, and Python.
-
-•	Cloud optimization: proficient in maximizing efficiency within cloud environments. *•	Technical sense: skilled at solving intricate problems.
-
-•	Process enhancement: passionate about streamlining workflows. 
-
-•	Infrastructure technologies: DevOps, transport layer security (TLS),  virtualization, servers, and information technology.
-
-•	Amazon Relational Database Service (RDS), Microsoft SQL Server, SQL Server Reporting Services (SSRS)
-
-• Promotions: Proven ability to rise through the ranks.
-
-Next Steps: Currently, I’m embarking on a transition to the Data Analysis world, leveraging my technical prowess to extract insights and drive informed decisions.
-* 🌍  I'm based in Castilleja de la Cuesta, Seville
-* ✉️  You can contact me at [oscarnests@yahoo.com](mailto:oscarnests@yahoo.com)
-* 🚀  I'm currently working on [Data Analytics Practitioner](http://www.montgomerycollege.edu/workforce-development-continuing-education/information-technology/techmap/index.html)
-* 🧠  I'm learning Data Analytics | Azure AI Engineer Associate
-* 🤝  I'm open to collaborating on Data Analytics and Azure AI projects.
+Key Strengths:
+Business Intelligence: Power BI, DAX, Power Query, data modeling, SQL Server, SSMS
+Power Platform: Power BI, Power Apps, Power Automate
+Data: acquisition, transformation, analysis, ETL, Python
+Cloud: AWS, Azure — resource optimization and automation
+Infrastructure: DevOps, virtualization, servers
+🌍 Based in Castilleja de la Cuesta, Seville — open to international remote/hybrid roles
+✉️ Contact: oscarnests@yahoo.com
+🚀 Last role working on data reporting and automation solutions at Montgomery College
+🧠 Preparing for the Azure AI Engineer Associate exam
+🤝 Actively seeking international roles in Data Engineering, Power Platform/BI, and ICT
 
 ### Skills
 
